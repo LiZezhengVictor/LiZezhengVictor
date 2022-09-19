@@ -2,9 +2,10 @@
 
 <div align="center">
   <a href="http://LiZezhengVictor.github.io/">
-    <img align="center" alt="Henry Zhu| Zhihu" width="66px" src="victor.jpg" />
+    <img align="center"  width="88px" src="pic1.png" />
   </a>
 </div>
+
 
 <div align="center">
   Here, 👆 My Homepage.
@@ -51,5 +52,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/-opencv-000000?style=flat&logo=opencv)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000?style=flat&logo=visualstudiocode)
+
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe_Lightroom-000000?style=flat&logo=adobelightroom)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-000000?style=flat&logo=adobephotoshop)
+
